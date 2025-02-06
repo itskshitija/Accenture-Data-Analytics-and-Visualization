@@ -2,7 +2,7 @@
 
 ## Overview  
 - **Role:** Data Analyst at Accenture.  
-- **Project:** Delivering actionable insights for Social Buzz, a social media and content creation platform.  
+- **Project:** Delivering actionable insights for **Social Buzz**, a social media and content creation platform.  
 - **Opportunity:** Showcase data analysis and visualization skills for a potential promotion.  
 
 ## Tools Used
@@ -34,14 +34,6 @@
 - Present findings in simple and clear formats.  
 - Document the analysis process thoroughly.  
 
-## Deliverables  
-1. **Big Data Best Practices:**  
-   - Presentation and documentation for Social Buzz.  
-2. **Content Category Insights:**  
-   - Data visualization showcasing the top 5 most popular content categories.  
-3. **IPO Preparation:**  
-   - Best practices documentation and guidance process.  
-
 ## Team Collaboration  
 - Work with Accenture’s cross-functional team and Social Buzz stakeholders.
   
@@ -49,6 +41,29 @@
 - Data extraction, cleaning, and merging (SQL).  
 - Data analysis and visualization.  
 - Business communication and strategic insights delivery.
+
+## Data Assets
+The client has sent -
+- **7 data sets -** each data set contains different columns and values
+  - User
+  - Profile
+  - Location
+  - Session
+  - Content
+  - Reaction
+  - ReactionTypes
+- **A data model -** this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+  
+  ![image](https://github.com/user-attachments/assets/6f7c8bf7-821b-4c85-b3b3-55fa3054f02d)
+
+## Dataset Selection 
+- As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
+- We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
+  These parameters we will get through below tables -
+  - ReactionTypes
+  - Reaction
+  - Content
+- So, to figure out popularity, we’ll have to add up which content categories have the largest score.
 
 ## Data Cleaning
 - In data cleaning process, I removed unnecessary columns.
@@ -58,7 +73,7 @@
 **End result is three cleaned data sets.**
 
 ## Data Modelling
-Created a final data set by merging your three tables in PowerBI Power Query Editor
+Created a final data set by merging three tables in PowerBI Power Query Editor
 
 
 ## Result
