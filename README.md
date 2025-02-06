@@ -47,9 +47,7 @@ The analysis is based on seven datasets provided by Social Buzz:
 ## 📊 Key Results  
 1. Identified the **top 5 most popular content categories** based on reaction scores.  
 2. Presented actionable insights through clean, intuitive visualizations in Power BI.  
-3. Delivered strategies to enhance user engagement and IPO readiness.  
 
-### Final Results  
 ![Final Results](https://github.com/user-attachments/assets/9fda8fbc-9080-4494-95af-dac90b667292)  
 
 ## 🎖️ Certification  
