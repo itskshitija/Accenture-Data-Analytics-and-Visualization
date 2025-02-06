@@ -47,6 +47,10 @@
 - Data analysis and visualization.  
 - Business communication and strategic insights delivery.
 
+## Result
+
+![image](https://github.com/user-attachments/assets/9fda8fbc-9080-4494-95af-dac90b667292)
+
 
   
 ![image](https://github.com/user-attachments/assets/bd0487a4-d76f-4205-9e49-a9d1a439a1a9)
