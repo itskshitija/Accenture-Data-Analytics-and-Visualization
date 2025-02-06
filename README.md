@@ -5,6 +5,9 @@
 - **Project:** Delivering actionable insights for Social Buzz, a social media and content creation platform.  
 - **Opportunity:** Showcase data analysis and visualization skills for a potential promotion.  
 
+## Tools Used
+**🔨PowerBI**
+
 ## About the Client: Social Buzz  
 - **Industry:** Social Media & Content Creation  
 - **HQ Location:** San Francisco  
@@ -47,10 +50,20 @@
 - Data analysis and visualization.  
 - Business communication and strategic insights delivery.
 
+## Data Cleaning
+- In data cleaning process, I removed unnecessary columns.
+- Removed rows that had values which were missing.
+- Changed data types of some values within a column
+
+**End result is three cleaned data sets.**
+
+## Data Modelling
+Created a final data set by merging your three tables in PowerBI Power Query Editor
+
+
 ## Result
 
 ![image](https://github.com/user-attachments/assets/9fda8fbc-9080-4494-95af-dac90b667292)
 
-
-  
+## Completion Certificate
 ![image](https://github.com/user-attachments/assets/bd0487a4-d76f-4205-9e49-a9d1a439a1a9)
